@@ -148,7 +148,18 @@ PRODUCT_PACKAGES += \
     TrebuchetQuickStep \
     Updater \
     WallpaperPicker \
-    WeatherProvider
+    WeatherProvider \
+    OmniSwitch \
+    KernelAdiutor \
+    OmniJaws
+
+# H4K3R Wallpaper App
+PRODUCT_PACKAGES += \
+   H4K3RWalls
+
+# H4K3R WWW App
+PRODUCT_PACKAGES += \
+   H4K3RWebb
 
 # Exchange support
 PRODUCT_PACKAGES += \
@@ -248,7 +259,7 @@ endif
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/lineage/overlay
 DEVICE_PACKAGE_OVERLAYS += vendor/lineage/overlay/common
 
-PRODUCT_VERSION_MAJOR = 16
+PRODUCT_VERSION_MAJOR = H4K3ROM-PIE
 PRODUCT_VERSION_MINOR = 0
 PRODUCT_VERSION_MAINTENANCE := 0
 
