@@ -1,4 +1,0 @@
-c 4 30 part1
-c 0 0 part2
-c 1 30 part3
-
