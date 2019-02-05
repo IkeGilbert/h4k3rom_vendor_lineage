@@ -1,1 +1,1 @@
-chmod +x ~/h4k3rom-lineage/vendor/lineage/build/tools/changelog
+chmod +x ~/H4K3ROM/vendor/lineage/build/tools/changelog
