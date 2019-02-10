@@ -146,7 +146,6 @@ PRODUCT_PACKAGES += \
     Jelly \
     LockClock \
     TrebuchetQuickStep \
-    Updater \
     WallpaperPicker \
     WeatherProvider \
     OmniSwitch \
