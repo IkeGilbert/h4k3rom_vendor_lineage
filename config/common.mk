@@ -148,10 +148,11 @@ PRODUCT_PACKAGES += \
     TrebuchetQuickStep \
     WallpaperPicker \
     WeatherProvider \
-    OmniSwitch \
+    PdfViewer \
     KernelAdiutor \
+    Terminal \
     OmniJaws
-
+    
 # H4K3R Wallpaper App
 PRODUCT_PACKAGES += \
    H4K3RWalls
@@ -159,6 +160,10 @@ PRODUCT_PACKAGES += \
 # H4K3R WWW App
 PRODUCT_PACKAGES += \
    H4K3RWebb
+   
+# DSPManager
+PRODUCT_PACKAGES += \
+    DSPManager
 
 # Exchange support
 PRODUCT_PACKAGES += \
