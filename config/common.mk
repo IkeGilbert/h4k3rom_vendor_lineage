@@ -146,13 +146,14 @@ PRODUCT_PACKAGES += \
     Jelly \
     LockClock \
     TrebuchetQuickStep \
-    Updater \
     WallpaperPicker \
     WeatherProvider \
-    OmniSwitch \
+    PdfViewer \
     KernelAdiutor \
+    Terminal \
+    OmniSwitch \
     OmniJaws
-
+    
 # H4K3R Wallpaper App
 PRODUCT_PACKAGES += \
    H4K3RWalls
@@ -160,6 +161,10 @@ PRODUCT_PACKAGES += \
 # H4K3R WWW App
 PRODUCT_PACKAGES += \
    H4K3RWebb
+   
+# DSPManager
+PRODUCT_PACKAGES += \
+    DSPManager
 
 # Exchange support
 PRODUCT_PACKAGES += \
@@ -299,6 +304,7 @@ endif
 
 
 PRODUCT_VERSION_MAJOR = H4K3ROM--PIE
+PRODUCT_VERSION_MAJOR = H4K3ROM-PIE
 PRODUCT_VERSION_MINOR = 0.0
 PRODUCT_VERSION_MAINTENANCE := 0.0
 
